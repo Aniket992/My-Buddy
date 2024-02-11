@@ -34,11 +34,18 @@ My-Buddy is a single stop mobile application designed to help users manage their
 
 ## Screenshots
 
-![Screenshot 1](screenshots/home.png)
-*Caption for Screenshot 1*
 
-![Screenshot 2](screenshots/login.png)
-*Caption for Screenshot 2*
+| Login | Home | Profile |
+| --- | --- | --- |
+| <img src="screenshots/login.png" width="250" /> | <img src="screenshots/home.png" width="250" /> | <img src="screenshots/profile.png" width="250" /> |
+
+| Daily Tasks | Health Tracker | Medicine Reminder |
+| --- | --- | --- |
+| <img src="screenshots/dailytask.png" width="250" /> | <img src="screenshots/healthtracker.png" width="250" /> | <img src="screenshots/medicineReminder.png" width="250" /> |
+
+| Emergency | Dialer |
+| --- | --- |
+| <img src="screenshots/Emergency.png" width="250" /> | <img src="screenshots/dialer.png" width="250" /> |
 
 
 ## Tech Stack
